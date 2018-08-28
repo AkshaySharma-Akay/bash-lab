@@ -1,5 +1,4 @@
 #! /bin/bash
-a=25000
 while read emp_name eid salary
 do
     if [ $salary -le $a ]
