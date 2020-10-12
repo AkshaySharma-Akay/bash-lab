@@ -7,3 +7,10 @@ $ chmod 700 filename.sh
 $ ./filename.sh
 
 ```
+
+### UNIX Shell Scripting (ROADMAP)
+- [ ] Unix Architecture.
+- [ ] Basic Commands.
+
+##### Resources: 
+- To be added
